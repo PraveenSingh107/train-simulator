@@ -1,4 +1,4 @@
-# Multithreaded Freight Train Simulator
+# Multi-threaded Freight Train Simulator
 On a planet in a Galaxy far far away, there are 8 train stations with a single rail track connecting the train stations. This track forms a big circle. 
 
 There are 4 freight trains, each traveling at a different but constant speed. All trains travel in the same direction. For safety reasons, a train may not enter the section of the track between 2 stations if another train is already on that section of the track. In such a case the train needs to wait at the train station until the other train has reached the next train station. At the train stations there are sufficient parallel tracks to allow the trains to overtake one another. 
