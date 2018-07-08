@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSystemSimulator.Core", "TrainSystemSimulator.Core\TrainSystemSimulator.Core.csproj", "{71FD607A-A358-4290-8576-D4861F7C240D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSystemSimulator.Client", "TrainSystemSimulator.Client\TrainSystemSimulator.Client.csproj", "{CC9C4578-4D74-44C5-8E71-04C4E0822091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FD607A-A358-4290-8576-D4861F7C240D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FD607A-A358-4290-8576-D4861F7C240D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FD607A-A358-4290-8576-D4861F7C240D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FD607A-A358-4290-8576-D4861F7C240D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9C4578-4D74-44C5-8E71-04C4E0822091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9C4578-4D74-44C5-8E71-04C4E0822091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9C4578-4D74-44C5-8E71-04C4E0822091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9C4578-4D74-44C5-8E71-04C4E0822091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
